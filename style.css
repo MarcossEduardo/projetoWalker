@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Rouge+Script&display=swap');
+
+*{
+    margin: 0;
+}
+
+body{
+    background-color:rgb(199, 199, 199);
+}
+h1{
+    color:white;
+    font-family: "Rouge Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+}
